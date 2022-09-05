@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.38d94f58.css",
-    "main.js": "/static/js/main.19557f30.js",
+    "main.css": "/static/css/main.86a65b16.css",
+    "main.js": "/static/js/main.d11a1f7e.js",
     "static/js/787.bf41270b.chunk.js": "/static/js/787.bf41270b.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "static/media/iziswap-logo.svg": "/static/media/iziswap-logo.e1b2fd7161c8455f3365.svg",
     "index.html": "/index.html",
     "static/media/token-404.svg": "/static/media/token-404.da2296966c40a70399e8915d4c2b21bf.svg",
-    "main.38d94f58.css.map": "/static/css/main.38d94f58.css.map",
-    "main.19557f30.js.map": "/static/js/main.19557f30.js.map",
+    "main.86a65b16.css.map": "/static/css/main.86a65b16.css.map",
+    "main.d11a1f7e.js.map": "/static/js/main.d11a1f7e.js.map",
     "787.bf41270b.chunk.js.map": "/static/js/787.bf41270b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38d94f58.css",
-    "static/js/main.19557f30.js"
+    "static/css/main.86a65b16.css",
+    "static/js/main.d11a1f7e.js"
   ]
 }
